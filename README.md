@@ -40,3 +40,6 @@ Gerçek token .env içinde tutulur, .gitignore sayesinde GitHub'a gönderilmez.
 
 ## ✨ Katkıda Bulun
 Pull request gönder, issue aç ya da yıldız bırak ⭐
+
+![image](https://github.com/user-attachments/assets/ee97baba-9a2b-4a45-89dc-bf252568325a)
+
